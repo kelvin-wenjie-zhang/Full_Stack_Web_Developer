@@ -1,2 +1,2 @@
-# Full_Stack_Web_Developer
+# Full Stack Web Developer
 These are the projects from the Udacity Nano degree program -- Full Stack Web Developer
